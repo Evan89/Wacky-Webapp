@@ -1,4 +1,5 @@
 id,manufacturer,model,price,seats,reach,cruise,takeoff,hourly
+C1,Beechcraft,"King Air C90",3900,12,2446,500,1402,,,,,,,,,
 C1,Beechcraft,"King Air C90",3900,12,2446,500,1402,990
 C2,Cessna,"Citation Mustang",2770,4,2130,630,950,1015
 C3,Embraer,"Phenom 100",2980,4,2148,704,1036,926

@@ -1,18 +1,62 @@
-## Example entry
-## Version: 2.x
-Date:	 11/9/2017
+### CHANGELOG
+
+## Version: 2.9
+Date: 11/12/2017
+
 Added:
-- models
-	* Tasks.php
-	
+- public/assets/image
+    * background.jpg
+    
 Modified:
+- public/assets/css
+    * style.css
+
+
+## Version: 2.8
+Date: 11/12/2017
+
+Modified:
+- Model
+    * App.php
+
+- Controller:
+    * FlightBooking.php
+
+
+## Version: 2.7
+Date: 11/12/2017
+
+Added:
+- Views
+    * flightsx.php
+    * fleetx.php
+    * flightsitemedit.php
+    * fleettsitemedit.php
+    
+Modified:
+- Model
+    * App.php
+    * Planes.php
+    * Flights.php
+    * Fleet.php
+- config:
+    * config.php
+- Controller:
+    * info/Fleet.php
+    * info/Planes.php
+    
+
+## Version: 2.6
+Date: 11/12/2017
+
+Modified:
+- controller
+    * FlightBooking.php
+    * App.php
 - config
-	* autoload.php
-
-CheatSheet
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-Escape character = \\
-
+    * config.php
+    * autoload.php
+    
 
 ## Version: 2.5
 Date: 11/11/2017
@@ -31,7 +75,6 @@ Modified:
 Date:    11/11/2017
 
 Added:
-
 - controllers
     * FlightBooking.php
 - models
