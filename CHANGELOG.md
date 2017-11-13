@@ -38,6 +38,7 @@ Modified:
     * App.php
     * Planes.php
     * Flights.php
+    * Fleet.php
 - config:
     * config.php
 - Controller:
